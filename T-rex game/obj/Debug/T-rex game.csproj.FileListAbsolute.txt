@@ -1,0 +1,11 @@
+C:\Users\moniq\source\repos\miniProjects\T-rex game\T-rex game\bin\Debug\T-rex game.exe.config
+C:\Users\moniq\source\repos\miniProjects\T-rex game\T-rex game\bin\Debug\T-rex game.exe
+C:\Users\moniq\source\repos\miniProjects\T-rex game\T-rex game\bin\Debug\T-rex game.pdb
+C:\Users\moniq\source\repos\miniProjects\T-rex game\T-rex game\obj\Debug\T-rex game.csproj.AssemblyReference.cache
+C:\Users\moniq\source\repos\miniProjects\T-rex game\T-rex game\obj\Debug\T-rex game.csproj.SuggestedBindingRedirects.cache
+C:\Users\moniq\source\repos\miniProjects\T-rex game\T-rex game\obj\Debug\T_rex_game.Form1.resources
+C:\Users\moniq\source\repos\miniProjects\T-rex game\T-rex game\obj\Debug\T_rex_game.Properties.Resources.resources
+C:\Users\moniq\source\repos\miniProjects\T-rex game\T-rex game\obj\Debug\T-rex game.csproj.GenerateResource.cache
+C:\Users\moniq\source\repos\miniProjects\T-rex game\T-rex game\obj\Debug\T-rex game.csproj.CoreCompileInputs.cache
+C:\Users\moniq\source\repos\miniProjects\T-rex game\T-rex game\obj\Debug\T-rex game.exe
+C:\Users\moniq\source\repos\miniProjects\T-rex game\T-rex game\obj\Debug\T-rex game.pdb
